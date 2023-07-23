@@ -1,3 +1,4 @@
+![image2](https://github.com/shreyaa-1/VISUALISER/assets/106281193/553ede9d-bec9-4f05-b3fe-4e15f4a565f2)
 # Dijkstra's Path Finding Visualizer
 
 ## Description
@@ -5,6 +6,10 @@
 This project is a path-finding visualizer that demonstrates Dijkstra's algorithm, a widely used algorithm for finding the shortest path between two points in a graph. The visualization allows users to understand how the algorithm explores the graph to find the shortest path from the start node to the target node.
 
 The application provides an interactive grid-based user interface, where users can create obstacles (walls) and define the start and target nodes. By running the visualization, users can see how Dijkstra's algorithm explores the graph and determines the shortest path.
+
+![image1](https://github.com/shreyaa-1/VISUALISER/assets/106281193/5a275983-2bf2-44c8-bd1a-448e54573fbf)
+![image2](https://github.com/shreyaa-1/VISUALISER/assets/106281193/eaf353d5-5bfc-439b-bcb0-665c313da203)
+![image3](https://github.com/shreyaa-1/VISUALISER/assets/106281193/0b5bd7a8-c587-473e-8964-ca2da6c309b2)
 
 ## Features
 
