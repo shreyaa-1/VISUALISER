@@ -1,4 +1,3 @@
-![image2](https://github.com/shreyaa-1/VISUALISER/assets/106281193/553ede9d-bec9-4f05-b3fe-4e15f4a565f2)
 # Dijkstra's Path Finding Visualizer
 
 ## Description
